@@ -1,6 +1,6 @@
 {
   "name": "@calsranna/dot-conf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library use to read and write .conf file",
   "main": "index.js",
   "author": "Cals Ranna",
